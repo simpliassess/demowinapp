@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="DemoWindowsApp.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="subDomainName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Contact us</Value>
+    </Setting>
+    <Setting Name="TimezoneOffset" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Contact us</Value>
+    </Setting>
+    <Setting Name="TanayDelivaryBaseAddress" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Contact us</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
