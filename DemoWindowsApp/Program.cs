@@ -6,6 +6,7 @@ using System.Windows.Forms;
 
 namespace DemoWindowsApp
 {
+    // windows app Progarm.cs
     internal static class Program
     {
         /// <summary>
